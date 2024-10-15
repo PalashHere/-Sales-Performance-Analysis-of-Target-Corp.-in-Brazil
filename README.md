@@ -16,5 +16,3 @@ psycopg2 and SQLAlchemy for database connectivity
 pandas for data manipulation and analysis
 matplotlib and seaborn for data visualization
 
-Key insights from the data visualizations and SQL queries:
-
